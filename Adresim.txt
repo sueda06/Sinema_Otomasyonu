@@ -1,0 +1,1 @@
+Data Source=SUEDA\SQLEXPRESS;Initial Catalog=DboSinemaOtomasyonu;Integrated Security=True
